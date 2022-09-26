@@ -1,0 +1,89 @@
+
+/*/------------footer----------------/*/
+
+
+li {
+    list-style: none;
+}
+
+
+.footer  {
+    display: flow-root;
+    background: #16425B;
+    color: white;
+    margin-top: 100px;
+}
+.container1 {
+    width: 80%;
+    margin: auto;
+}
+.footer_body {
+    margin-top: -205px;
+    margin-bottom: 310px;
+}
+
+.m2_footer {
+    width: 70%;
+    float: left;
+    color: white;
+}
+
+.m2_footer .logo .name_hotel_m2 a {
+    color: white;
+    margin-top: -30px;
+    font-family: "Audiowide", sans-serif; 
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+.m2_footer .logo .name_hotel_m2 a span{
+    color: #D9DCD6;
+    margin: 0 10px;
+    width: 5px;
+}
+.text_fotter p {
+    color: white;
+    line-height: 1.9;
+    margin-bottom: 30px;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+}
+
+/*/*/
+.m4_footer {
+    width: 30%;
+    float: right;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.m4_footer h4 {
+    color: white;
+    font-size: 15px;
+    margin-bottom: 29px;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.m4_footer a {
+    font-family: "Cormorant Garamond", serif;
+    color: white;
+    font-weight: 300;
+    text-decoration: underline transparent;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.m4_footer_li {
+    width: 100%;
+}
+
+.m4_footer_li li {
+    margin-right: 40px;
+}
+
+.m4_footer_li li a i{
+    margin-right: 10px;
+    color: #D9DCD6;
+}
+

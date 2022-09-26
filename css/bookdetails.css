@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+/*/-------/*/
+.header {
+    margin: 0;
+    width: 100%;
+    z-index: 100;
+    position: relative;
+}
+
+
+.header  .user_info {
+    float: right;
+    color: #fff;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+
+}
+
+.header  .user_info .a1 {
+    font-size: 18px;
+    margin-left: -30px;
+    border-radius: 10px;
+}
+
+.btn {
+    position: relative;
+    display: inline-flex;
+    padding: 10px 30px;
+    color: #686865;
+    text-decoration: none;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+
+.header .header_m1 .user_info .nav_button {
+    margin-left: 30px;
+    margin-top: -7px;
+    margin-right: 5px;
+    float: right;
+}
+
+.header .header_m1 .user_info .nav_button .line span {
+    margin: 17px 0;
+    display: table;
+    width: 34px;
+    height: 2px;
+    background-color: #fff;
+}
+
+.name_site {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    transition: 0.1s;
+}
+
+.name_site img
+{
+    width: 100px;
+}
+
+.name_site a {
+    font-family: "Audiowide", sans-serif; 
+    font-size: 80px;
+    color: #686865;
+    margin-bottom: 10px;
+}
+
+/*/------------/*/
+
+.body_a1{
+    margin-top: 50px;
+}
+.container3
+{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+
+.body_a1 .body_show
+{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+.body_show img
+{
+    margin: auto;
+    display: block;
+    width: 400px;
+    margin-top: 15px;
+
+}
+
+.body_a1 ul{
+    margin-top: 100px;
+    display: block;
+
+}
+
+.body_show li
+{
+    border-left:1px solid rgb(105, 105, 105) ;
+    border-radius: 0 0 0 10px ;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    line-height: 50px;
+    color: #383838;
+
+}
+
+.body_show li span
+{
+    color: black;
+}
